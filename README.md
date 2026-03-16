@@ -29,3 +29,14 @@ uvicorn app:app --reload
   ]
 }
 ```
+## Architecture
+
+Candidate Resume
+↓
+Text Cleaning
+↓
+TF-IDF Vectorization
+↓
+Cosine Similarity
+↓
+Match Score Output
